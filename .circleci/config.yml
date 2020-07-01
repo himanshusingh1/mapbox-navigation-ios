@@ -199,11 +199,6 @@ workflows:
           name: "Xcode_11.5_iOS_13.5"
           xcode: "11.5.0"
           iOS: "13.5"
-          device: "iPhone 11 Pro"
-      - build-job:
-          name: "Xcode_11.4.1_iOS_13.4.1"
-          xcode: "11.4.1"
-          iOS: "13.4.1"
           device: "iPhone 8 Plus"
       - build-job:
           name: "Xcode_11.4.1_iOS_12.2"
